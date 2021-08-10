@@ -5,7 +5,13 @@
     "code-runner.runInTerminal": true,
     "cSpell.ignoreWords": [
         "cmyk",
-        "cor"
+        "concerns",
+        "cor",
+        "manuten",
+        "manutenção",
+        "o",
+        "separation",
+        "yourself"
     ],
     "god.tsconfig": "./tsconfig.json",
 }
